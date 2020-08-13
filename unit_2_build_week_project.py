@@ -14,7 +14,7 @@ import numpy as np
 !pip install category_encoders==2.*
 !pip install pandas-profiling==2.*
 
-df = pd.read_csv('cbb_data.csv')
+df = pd.read_csv('https://github.com/Tristan-Brown1096/DS18_Unit_2_Build_Week_Project/blob/master/cbb_data.csv')
 
 df.head()
 
